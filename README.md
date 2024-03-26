@@ -1,2 +1,2 @@
 # blazeDNS
-blazeDNS is a webUI for manage BIND DNS records
+blazeDNS is a webUI for manage BIND DNS records.
